@@ -8,3 +8,4 @@ Topics -
 2. [Closure](closure/closure.html)
 3. [Event Loops](event-loops/event-loops.js)
 4. [Polyfill](polyfill/polyfill.js)
+5. [Miscellaneous](misc/misc.js)
